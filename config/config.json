@@ -1,0 +1,18 @@
+{
+    "url": "http://localhost:3000",
+    "urlWS": "ws://localhost:3001",
+    "nodes": ["http://77.250.115.40:45000"],
+    "nodesWS": ["ws://77.250.115.40:47000"],
+    "workers": ["http://77.250.115.40:45000"],
+    "representative": "nano_3e3j5tkog48pnny9dmfzj1r16pg8t1e76dz5tmac6iq689wyjfpiij4txtdo",
+    "percentage": 0.001,
+    "minAmount": "0.000001",
+    "maxAmount": "0.01",
+    "limits": {
+        "account": 1,
+        "ip": 5,
+        "email": 3
+    },
+    "blockExplorer": "https://nanocrawler.cc/explorer/block/",
+    "contact": "contact@example.com"
+}
