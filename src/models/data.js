@@ -60,7 +60,7 @@ function updateWalletInfo(info){
 }
 
 function updateWalletHistory(data){
-    if (data[0].previous == ''.padStart(64, 0)) { // if open block is present, save all history
+    if (data[0].type == 'open') { // if open block is present, save all history
         walletHistory = [...data]
         totalDrops = 0
         walletHistory.forEach((block) => {
