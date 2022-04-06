@@ -12,7 +12,7 @@ const { deriveWallet } = require('./models/nano-wallet/wallet.js')
 const FAUCET_ACCOUNT = deriveWallet().account
 const SESSION_SECRET = process.env.SESSION_SECRET
 
-const http_port = 3000
+const http_port = process.env.PORT || 3000;
 const ws_port = 3001
 
 const startServer = function () {
