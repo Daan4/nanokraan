@@ -1,0 +1,14 @@
+{
+  "balance": "340282366920938463463374607431768211443",
+  "pending": "0",
+  "frontier": "37A797409327527664B3D5FCC14A99C75A2EB334789EA80CEF72E1D6C0D08097",
+  "representative": "nano_3e3j5tkog48pnny9dmfzj1r16pg8t1e76dz5tmac6iq689wyjfpiij4txtdo",
+  "open_block": "04270D7F11C4B2B472F2854C5A59F2A7E84226CE9ED799DE75744BD7D85FC9D9",
+  "modified_timestamp": "1649269894",
+  "block_count": "27",
+  "weight": "340282366920938463463374607431768211455",
+  "total_received": "7000000000000000000000000000000",
+  "total_sent": "7000000000000000000000000000012",
+  "total_sent_percentage": 0,
+  "pending_valid": 0
+}
