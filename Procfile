@@ -1,1 +1,1 @@
-web: node ./src/init.js -i ./data
+web: npm start
