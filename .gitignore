@@ -2,6 +2,9 @@
 config/
 data/
 
+#vsc
+.vscode/
+
 # Logs
 logs
 *.log
