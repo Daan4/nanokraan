@@ -1,9 +1,9 @@
 version: "3.8"
 services:
-  nanodrop:
+  nanokraan:
     build: .
-    image: anarkrypto/nanodrop
-    container_name: nanodrop
+    image: nl_nano/nanokraan
+    container_name: nanokraan
     restart: unless-stopped
     network_mode: host
     volumes:

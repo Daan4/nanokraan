@@ -57,7 +57,7 @@ try {
 
 
     $("#copyLink").click(function () {
-        copyToClipboard("https://nanodrop.io")
+        copyToClipboard("https://nanokraan.nl")
         document.querySelector("input#inputLink").select()
         document.execCommand("copy")
         $(".message").text("link copied")

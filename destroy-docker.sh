@@ -4,11 +4,11 @@
 version='1.0'
 
 # Project name
-projectName="NanoDrop Faucet"
+projectName="NanoKraan"
 
 # Docker container and image name
-containerName=nanodrop
-imageName=anarkrypto/nanodrop
+containerName=nanokraan
+imageName=nl_nano/nanokraan
 
 # OUTPUT VARS
 TERM=xterm

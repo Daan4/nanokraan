@@ -4,7 +4,7 @@
 version='1.0'
 
 # Project name
-projectName="NanoDrop Faucet"
+projectName="NanoKraan Faucet"
 
 # Port to test
 port=3000
